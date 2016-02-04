@@ -5,6 +5,8 @@ ruby '2.1.6'
 gem 'rails', '4.2.5'
 # Use PostGresl
 gem 'pg'
+# Use 12 Factor
+gem 'rails_12factor'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Bootstrap
