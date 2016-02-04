@@ -5,6 +5,8 @@ ruby '2.1.6'
 gem 'rails', '4.2.5'
 # Use PostGresl
 gem 'pg'
+# Use Puma as the web server
+gem 'puma'
 # Use 12 Factor
 gem 'rails_12factor'
 # Use SCSS for stylesheets
