@@ -9,6 +9,8 @@ gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
 # Use Bootstrap
 gem 'bootstrap-sass'
+# Use Font Awesome
+gem 'font-awesome-sass'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
